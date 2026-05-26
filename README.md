@@ -6,6 +6,6 @@ DL: <a href="https://github.com/coahte3/L4D2SM-tele-command_1.3/releases/downloa
 　all/Survivor, bot/bots, me, number, name<br>
 <br>
 Example:<br>
-!tele all me<br>
-/tele me 3<br>
-!tele louis coah<br>
+　!tele all me<br>
+　/tele me 3<br>
+　!tele louis coah<br>
